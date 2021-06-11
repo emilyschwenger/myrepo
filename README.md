@@ -1,4 +1,4 @@
 # myrepo
 Testing my setup
 
-"This is a lie from RStudio"
+This is a line from RStudio.
